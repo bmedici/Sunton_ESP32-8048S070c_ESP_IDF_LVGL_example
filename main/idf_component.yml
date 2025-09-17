@@ -3,4 +3,4 @@ dependencies:
   espressif/esp_lvgl_port: "==2.3.2"
   esp_lcd_touch_gt911: "==1.1.0"
   idf:
-    version: ">=5.3"
+    version: ">=5.5.0"
